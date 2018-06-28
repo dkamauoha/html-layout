@@ -1,0 +1,72 @@
+body {
+    width: 100%;
+    margin: 0;
+    display: inline-block;
+}
+
+grey {
+    background-color: lightgray;
+    height: 15vh;
+    margin-top: 15;
+    width: 100%;
+    display: inline-block;
+}
+
+blue-box {
+    background-color: rgb(69, 128, 216);
+    height: 115px;
+    width: 115px;
+    margin: 15px 30px;
+    display: inline-block;
+}
+
+white {
+    background-color: white;
+    height: 25%;
+    width: 100%;
+    display: inline-block;
+}
+
+p {
+    margin: 55px 25px;
+    font-family: sans-serif;
+    font-size: 25px;
+    color: rgb(83, 81, 81);
+}
+
+blue {
+    background-color: rgb(69, 128, 216);
+    height: 15vh;
+    width: 100%;
+    margin-top: 0;
+    margin-bottom: 0;
+    display: inline-block;
+}
+
+teal {
+    background-color: aquamarine;
+    border: 3px solid aquamarine;
+    height: 15vh;
+    width: 100%;
+    margin-top: 0;
+    margin-bottom: 0;
+    display: inline-block;
+}
+
+green {
+    background-color: rgb(170, 235, 117);
+    height: 15vh;
+    width: 100%;
+    margin-top: 0;
+    margin-bottom: 0;
+    display: inline-block;
+}
+
+gold {
+    background-color: gold;
+    height: 15vh;
+    width: 100%;
+    margin-top: 0;
+    margin-bottom: 0;
+    display: inline-block;
+}
